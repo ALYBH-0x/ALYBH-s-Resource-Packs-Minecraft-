@@ -32,13 +32,13 @@
 > 与光效（Glint）纹理贴图有强关联的资源包。
 
 - **[ALYBH 的 附魔重绘光效（ALYBH‐REnchantment Glints）](./project-original/alybh-re-enchantment-gints.md)**  
-  适用于 Java 版 1.15 及以上的附魔光效资源包合集，提供几十种不同色彩、渐变、纹样风格的附魔闪烁光效替换方案，且不改任何游戏机制。
+  附魔光效资源包合集，提供几十种不同色彩、渐变、纹样风格的附魔闪烁光效替换方案，且不改任何游戏机制。
   
 - **[ALYBH 的 CIT 重上色附魔光效（ALYBH's CIT Recolored Enchantment Glints）](./project-original/alybh-cit-recolored-enchantment-gints.md)**  
-  依赖 CIT Resewn 或 OptiFine 的 CIT-Enchantment 功能实现，适用于 Java 1.13 及以上；依靠 CIT 按附魔类型自动分配不同颜色附魔光效，方便一眼区分各类附魔物品。
+  依赖 CIT Resewn 或 OptiFine 的 CIT-Enchantment 功能实现，依靠 CIT 按附魔类型自动分配不同颜色附魔光效，方便一眼区分各类附魔物品。
   
 - **[ALYBH 的 CIT 自定义附魔光效（ALYBH's CIT Custom Glints）](./project-original/alybh-cit-custom-enchantment-gints.md)**  
-  依赖 CIT Resewn 或 OptiFine 的 CIT-Enchantment 功能实现，适用于 Java 1.13 及以上；玩家可以通过铁砧改名或者物品 Lore 标签自由组合颜色、图案，自定义装备附魔光效。
+  依赖 CIT Resewn 或 OptiFine 的 CIT-Enchantment 功能实现，玩家可以通过铁砧改名或者物品 Lore 标签自由组合颜色、图案，自定义装备附魔光效。
 </details>
 
 <details>
@@ -47,7 +47,7 @@
 > 暂未拥有明确分类的资源包。
 
 - **[萌萌方蠹虫（Cute Blocky Silverfish）](./project-original/cute-blocky-silverfish.md)**  
-  将蠹虫改为方块风格模型，可爱度+20%！
+  将蠹虫改为方块风格的模型，可爱度 +20%！
   
 - **[可颂包蠹虫（Croissant Silverfish）](./project-original/croissant-silverfish.md)**  
   可颂面包主题蠹虫纹理&模型，给游戏增添烘焙风的趣味幽默感。
