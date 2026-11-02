@@ -9,7 +9,7 @@
 除非另有说明，未被明确指定许可证的资源包，以及在相关许可证生效前发布的版本，均应被视为 **“保留所有权利（All Rights Reserved）”** 。
 
 <details>
-<summary>Minecraft 声明</summary>
+<summary>⚠ Minecraft 声明</summary>
 
 **当本作品作为 Minecraft 的资源包或于 Minecraft 生态内使用时，用户同时需要遵守 Minecraft 的《最终用户许可协议（EULA）》及《服务条款（Terms of Service）》。该要求仅适用于本作品与 Minecraft 相关的使用行为，不影响本作品自身的著作权归属，也不影响本许可证授予用户的许可。**
 
