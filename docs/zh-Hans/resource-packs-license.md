@@ -6,9 +6,17 @@
 
 本系列资源包默认采用以下两种许可证之一。除非另有说明，具体适用的协议以各资源包或版本的配套说明文档为准。
 
-除非另有说明，未被明确指定许可协议的资源包，以及在相关许可协议生效前发布的版本，均应被视为 **“保留所有权利（All Rights Reserved）”** 。
+除非另有说明，未被明确指定许可证的资源包，以及在相关许可证生效前发布的版本，均应被视为 **“保留所有权利（All Rights Reserved）”** 。
 
-此外，在《Minecraft》中使用这些资源包时，用户有责任遵守《Minecraft 最终用户许可协议（EULA）》及《服务条款（Terms of Service）》。
+<details>
+<summary>Minecraft 声明</summary>
+
+**当本作品作为 Minecraft 的资源包或于 Minecraft 生态内使用时，用户同时需要遵守 Minecraft 的《最终用户许可协议（EULA）》及《服务条款（Terms of Service）》。该要求仅适用于本作品与 Minecraft 相关的使用行为，不影响本作品自身的著作权归属，也不影响本许可证授予用户的许可。**
+
+本作品为独立创作，并非 Minecraft 官方产品，亦未获得 Mojang Studios 或 Microsoft 的认可、授权、赞助或其他关联。
+
+Minecraft 为 Mojang Studios 的商标。本许可证中的任何内容均不得解释为授予被许可人使用 **“Minecraft”**、**“Mojang Studios”**、**“Microsoft”** 或 Mojang Studios、Microsoft 所拥有其他商标的任何权利，但适用法律另有规定的除外。
+</details>
 
 点击展开分类，即可浏览详情。
 
@@ -16,15 +24,16 @@
 
 ## 🟢 CC BY-NC-SA 4.0
 
-知识共享署名 — 非商业性使用 — 相同方式共享 4.0 国际公共许可协议
+知识共享署名 — 非商业性使用 — 相同方式共享 4.0 国际公共许可证
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+<details>
 <summary>CC-BY-NC-SA 4.0 概要</summary>
 
 CC-BY-NC-SA 4.0  
 
-> 完整许可协议：https://creativecommons.org/licenses/by-nc-sa/4.0/  
+> 完整许可证：https://creativecommons.org/licenses/by-nc-sa/4.0/  
 
 **本文档仅为方便普通用户阅读而提供的非正式摘要，不构成许可证正文，也不会修改许可证内容。如与许可证正文存在任何冲突或歧义，以官方英文许可证为准。**
 
@@ -32,7 +41,7 @@ CC-BY-NC-SA 4.0
 
 **一句话概括**
 
-> **你可以自由使用、修改和分享本作品，但前提是：必须署名原作者（建议附带来源链接），不得用于任何商业用途，并且你所创作的衍生作品必须以相同的许可协议发布。**
+> **你可以自由使用、修改和分享本作品，但前提是：必须署名原作者（建议附带来源链接），不得用于任何商业用途，并且你所创作的衍生作品必须以相同的许可证发布。**
 
 ---
 
@@ -64,7 +73,6 @@ CC-BY-NC-SA 4.0
 **需要更多授权？**
 
 如需商业使用或任何本协议未涵盖的其他授权，请联系作者。  
-
 </details>
 
 ## 🟡 CUSTOM LICENSE FOR ALYBH'S RESOURCE PACKS (MINECRAFT)
@@ -73,11 +81,12 @@ ALYBH 的 Minecraft 资源包自定义许可证
 
 https://gist.github.com/ALYBH-0x/a667b02872c9e47b908ecd84cea759fb 
 
+<details>
 <summary>CUSTOM LICENSE FOR ALYBH’S RESOURCE PACKS (MINECRAFT) 概要</summary>
 
 CUSTOM LICENSE FOR ALYBH’S RESOURCE PACKS (MINECRAFT)
 
-> 完整许可协议：https://gist.github.com/ALYBH-0x/a667b02872c9e47b908ecd84cea759fb
+> 完整许可证：https://gist.github.com/ALYBH-0x/a667b02872c9e47b908ecd84cea759fb
 
 **本文档仅为方便普通用户阅读而提供的非正式摘要，不构成许可证正文，也不会修改许可证内容。如与许可证正文存在任何冲突或歧义，以官方英文许可证为准。**
 
@@ -139,5 +148,4 @@ CUSTOM LICENSE FOR ALYBH’S RESOURCE PACKS (MINECRAFT)
 **需要更多授权？**
 
 如果你的使用方式未在许可证中明确允许，请联系作者申请书面授权（Written Authorization）。
-
 </details>
