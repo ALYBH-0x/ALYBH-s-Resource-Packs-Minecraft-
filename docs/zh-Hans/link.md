@@ -6,6 +6,8 @@
 
 本页包含用于内容分发、社群交流等的账号及页面链接地址。
 
+[返回主页](./home.md)
+
  ## 内容分发
 
 Modrinth：https://modrinth.com/user/ALYBH

@@ -147,7 +147,7 @@ CUSTOM LICENSE FOR ALYBH’S RESOURCE PACKS (MINECRAFT)
 
 **需要更多授权？**
 
-如果你的使用方式未在许可证中明确允许，请联系作者申请书面授权（Written Authorization）。
+如果您的使用方式未在许可证中明确允许，请联系作者申请书面授权（Written Authorization）。
 </details>
 
 ---
