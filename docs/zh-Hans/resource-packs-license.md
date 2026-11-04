@@ -158,8 +158,8 @@ CUSTOM LICENSE FOR ALYBH’S RESOURCE PACKS (MINECRAFT)
 
 本作品为独立创作，并非 Minecraft 官方产品，亦未获得 Mojang Studios 或 Microsoft 的认可、授权、赞助或其他关联。
 
-Minecraft 为 Mojang Studios 的商标。本许可证中的任何内容均不得解释为授予被许可人使用 **“Minecraft”**、**“Mojang Studios”**、**“Microsoft”** 或 Mojang Studios、Microsoft 所拥有其他商标的任何权利，但适用法律另有规定的除外。
+Minecraft 为 Mojang Studios 的商标。本许可证中的任何内容**均不得**解释为授予被许可人使用 **“Minecraft”**、**“Mojang Studios”**、**“Microsoft”** 或 Mojang Studios、Microsoft 所拥有其他商标的任何权利，但适用法律另有规定的除外。
 
 ---
 
-| [主页](../home.md) | [内容索引](../index.md) | [相关链接](../link.md) | [联系方式](../contact.md) | [许可证](../resource-packs-license.md)
+| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./link.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |

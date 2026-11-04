@@ -14,7 +14,7 @@ Modrinth：https://modrinth.com/user/ALYBH
 
 GitHub：https://github.com/ALYBH-0x
 
-苦力怕论坛：https://klpbbs.com/space-uid-1636799.html
+苦力怕论坛（KLPBBS）：https://klpbbs.com/space-uid-1636799.html
 
 Planet Minecraft (PMC)：https://www.planetminecraft.com/member/alybh/
 
@@ -36,4 +36,4 @@ Ko-fi：https://ko-fi.com/alybh
 
 ---
 
-| [主页](../home.md) | [内容索引](../index.md) | [相关链接](../link.md) | [联系方式](../contact.md) | [许可证](../resource-packs-license.md)
+| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./link.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |

@@ -8,7 +8,9 @@
 
 点击展开分类可以浏览概述，点击项目标题即可跳转详情页。
 
-建议所有资源通过下列项目的认证发布渠道获取，它们已被列举至对应资源包的条目内。不建议使用非官方镜像或第三方打包的镜像文件，因为无法保证这些渠道分发的资源完整性与安全性。
+建议所有资源通过下列项目的认证发布渠道获取，它们已被列举至对应资源包的条目内。
+
+不建议使用非官方镜像或第三方打包的镜像文件，因为无法保证这些渠道分发的资源完整性与安全性。
 
 [返回主页](./home.md)
 
@@ -30,10 +32,10 @@
   
 > 基于原版美术风格的资源包。
 
-- **[原版风格3D物品（3D Vanilla‐like Items）](./project-original/3d-vanilla-like-items.md)**  
+- **[原版风格3D物品（3D Vanilla‐like Items）](./project-original/3d-vanilla-like-item.md)**  
   为剑、工具、弓弩、箭等物品提供浮雕风原版向 3D 模型，纹理布局大幅兼容原版，方便替换纹理二次修改。
   
-- **[弓弩视角调整（Bow and Crossbow Visual Changes）](./project-original/bow-and-crossbow-visual-changes.md)**  
+- **[弓弩视角调整（Bow and Crossbow Visual Changes）](./project-original/bow-and-crossbow-visual-change.md)**  
   将第一人称弓与弩的手持视觉样式互换，还有拆分为水平弓、垂直弩两个独立分包供按需搭配使用。
 </details>
 
@@ -42,13 +44,13 @@
   
 > 与光效（Glint）纹理贴图有强关联的资源包。
 
-- **[ALYBH 的 附魔重绘光效（ALYBH‐REnchantment Glints）](./project-original/alybh-re-enchantment-gints.md)**  
+- **[ALYBH 的 附魔重绘光效（ALYBH‐REnchantment Glints）](./project-original/alybh-re-enchantment-glint.md)**  
   附魔光效资源包合集，提供几十种不同色彩、渐变、纹样风格的附魔闪烁光效替换方案，且无需模组即可使用。
   
-- **[ALYBH 的 CIT 重上色附魔光效（ALYBH's CIT Recolored Enchantment Glints）](./project-original/alybh-cit-recolored-enchantment-gints.md)**  
+- **[ALYBH 的 CIT 重上色附魔光效（ALYBH's CIT Recolored Enchantment Glints）](./project-original/alybh-cit-recolored-enchantment-glint.md)**  
   依赖 CIT Resewn 或 OptiFine 的 CIT-Enchantment 功能实现；依靠 CIT 按附魔类型自动分配不同颜色附魔光效，方便一眼区分各类附魔物品。
   
-- **[ALYBH 的 CIT 自定义附魔光效（ALYBH's CIT Custom Glints）](./project-original/alybh-cit-custom-enchantment-gints.md)**  
+- **[ALYBH 的 CIT 自定义附魔光效（ALYBH's CIT Custom Glints）](./project-original/alybh-cit-custom-enchantment-glint.md)**  
   依赖 CIT Resewn 或 OptiFine 的 CIT-Enchantment 功能实现；玩家可以通过铁砧改名或者物品 Lore 标签自由组合颜色、图案，自定义装备附魔光效。
 </details>
 
@@ -66,4 +68,4 @@
 
 ---
 
-| [主页](../home.md) | [内容索引](../index.md) | [相关链接](../link.md) | [联系方式](../contact.md) | [许可证](../resource-packs-license.md)
+| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./link.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
