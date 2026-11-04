@@ -10,4 +10,4 @@ You may submit bugs, feedback and suggestions regarding ALYBH's Minecraft Resour
 
 ## Wiki docs
 
-| [简体中文](../zh-Hans/home.md) | [繁體中文](../zh-Hant/home.md) | [English](../en/home.md) |
+| [简体中文](./docs/zh-Hans/home.md) | [繁體中文](./docs/zh-Hant/home.md) | [English](./docs/en/home.md) |
