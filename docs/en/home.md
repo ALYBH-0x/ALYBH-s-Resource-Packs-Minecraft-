@@ -20,7 +20,7 @@ Also, **THESE RESOURCE PACKS ARE FREE! If you have paid for this resource pack, 
 
 [Index](./index.md): Full catalog of resource packs. Expand categories to view all entries.
 
-[Links](./link.md): Distribution pages, community platforms and related accounts.
+[Links](./links.md): Distribution pages, community platforms and related accounts.
 
 [Contact](./contact.md): Channels for messages, feedback and suggestions.
 
@@ -94,5 +94,5 @@ _Requirement: The launcher supports built-in Modrinth resource library retrieval
 
 ---
 
-| [Home](./home.md) | [Index](./index.md) | [Links](./link.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
+| [Home](./home.md) | [Index](./index.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
 

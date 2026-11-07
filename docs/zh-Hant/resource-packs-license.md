@@ -1,5 +1,7 @@
 | [简体中文](../zh-Hans/resource-packs-license.md) | [繁體中文](../zh-Hant/resource-packs-license.md) | [English](../en/resource-packs-license.md) |
 
+| [主頁](./home.md) | [內容索引](./index.md) | [相關鏈接](./links.md) | [聯繫方式](./contact.md) | [許可證](./resource-packs-license.md) |
+
 ---
 
 # 許可證
@@ -14,13 +16,11 @@
 
 點擊展開分類，即可瀏覽詳情。
 
-[返回主頁](./home.md)
-
 ---
 
 ## 知識共享許可
 
-### 🟢 CC BY-NC-SA 4.0
+### CC BY-NC-SA 4.0
 
 > 知識共享署名 — 非商業性使用 — 相同方式共享 4.0 國際公共許可證
 
@@ -75,7 +75,7 @@ CC-BY-NC-SA 4.0
 
 ## 自定義許可
 
-### 🟡 CUSTOM LICENSE FOR ALYBH'S RESOURCE PACKS (MINECRAFT)
+### CUSTOM LICENSE FOR ALYBH'S RESOURCE PACKS (MINECRAFT)
 
 > ALYBH 的 Minecraft 資源包自定義許可證
 
@@ -152,9 +152,9 @@ CUSTOM LICENSE FOR ALYBH’S RESOURCE PACKS (MINECRAFT)
 
 ---
 
-## ℹ️ Minecraft 聲明
+## Minecraft 聲明
 
-**當本作品作爲 Minecraft 的資源包或於 Minecraft 生態內使用時，用戶同時需要遵守 Minecraft 的《最終用戶許可協議（EULA）》及《服務條款（Terms of Service）》。該要求僅適用於本作品與 Minecraft 相關的使用行爲，不影響本作品自身的著作權歸屬，也不影響本許可證授予用戶的許可。**
+**當本作品作爲 Minecraft 的資源包或於 Minecraft 生態內（包括玩家社區、粉絲同人圈等）使用時，用戶同時需要遵守 Minecraft 的《最終用戶許可協議（EULA）》及《服務條款（Terms of Service）》。該要求僅適用於本作品與 Minecraft 相關的使用行爲，不影響本作品自身的著作權歸屬，也不影響本許可證授予用戶的許可。**
 
 本作品爲獨立創作，並非 Minecraft 官方產品，亦未獲得 Mojang Studios 或 Microsoft 的認可、授權、贊助或其他關聯。
 
@@ -162,4 +162,4 @@ Minecraft 爲 Mojang Studios 的商標。本許可證中的任何內容**均不�
 
 ---
 
-| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./link.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
+| [主頁](./home.md) | [內容索引](./index.md) | [相關鏈接](./links.md) | [聯繫方式](./contact.md) | [許可證](./resource-packs-license.md) |

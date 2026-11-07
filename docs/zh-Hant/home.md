@@ -1,5 +1,7 @@
 | [简体中文](../zh-Hans/home.md) | [繁體中文](../zh-Hant/home.md) | [English](../en/home.md) |
 
+| [主頁](./home.md) | [內容索引](./index.md) | [相關鏈接](./links.md) | [聯繫方式](./contact.md) | [許可證](./resource-packs-license.md) |
+
 ---
 
 # 主頁
@@ -20,7 +22,7 @@
 
 [內容索引](./index.md)：資源包目錄總表，展開分類即可瀏覽全部條目說明。
 
-[相關鏈接](./link.md)：收錄用於內容分發、社羣交流等功能的賬號與頁面鏈接。
+[相關鏈接](./links.md)：收錄用於內容分發、社羣交流等功能的賬號與頁面鏈接。
 
 [聯繫方式](./contact.md)：提供溝通、反饋建議的聯絡渠道。
 
@@ -94,4 +96,4 @@ _前提：啓動器內置 Modrinth 資源庫檢索功能，此處以 PCL2 爲例
 
 ---
 
-| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./link.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
+| [主頁](./home.md) | [內容索引](./index.md) | [相關鏈接](./links.md) | [聯繫方式](./contact.md) | [許可證](./resource-packs-license.md) |

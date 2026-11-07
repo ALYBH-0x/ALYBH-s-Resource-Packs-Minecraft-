@@ -20,7 +20,7 @@ Click to expand categories for details.
 
 ## Creative Commons Licenses
 
-### 🟢 CC BY-NC-SA 4.0
+### CC BY-NC-SA 4.0
 
 > Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
@@ -76,7 +76,7 @@ Contact the author for commercial use or any other use not covered by this licen
 
 ## Custom License
 
-### 🟡 CUSTOM LICENSE FOR ALYBH'S RESOURCE PACKS (MINECRAFT)
+### CUSTOM LICENSE FOR ALYBH'S RESOURCE PACKS (MINECRAFT)
 
 > Custom License for ALYBH’s Minecraft Resource Packs
 
@@ -153,9 +153,9 @@ If your intended use is not explicitly permitted by this license, contact the au
 
 ---
 
-## ℹ️ Minecraft Notice
+## Minecraft Notice
 
-**When this work is used as a Minecraft resource pack or within the Minecraft ecosystem, users must also comply with Minecraft’s End User License Agreement (EULA) and Terms of Service. This requirement applies only to use of this work related to Minecraft. It does not affect the copyright ownership of this work, nor the permissions granted by this license.**
+**When this work is used as a Minecraft resource pack or within the Minecraft ecosystem (the community, the fandom, etc.), users must also comply with Minecraft’s End User License Agreement (EULA) and Terms of Service. This requirement applies only to use of this work related to Minecraft. It does not affect the copyright ownership of this work, nor the permissions granted by this license.**
 
 This work is an independent creation. It is not an official Minecraft product, and it is not endorsed, licensed, sponsored or otherwise affiliated with Mojang Studios or Microsoft.
 
@@ -163,4 +163,4 @@ Minecraft is a trademark of Mojang Studios. Nothing in this license **shall be c
 
 ---
 
-| [Home](./home.md) | [Index](./index.md) | [Links](./link.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
+| [Home](./home.md) | [Index](./index.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |

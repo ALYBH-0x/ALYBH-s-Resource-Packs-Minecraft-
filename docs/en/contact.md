@@ -45,4 +45,4 @@ Bilibili：https://space.bilibili.com/3707013659888454
 
 ---
 
-| [Home](./home.md) | [Index](./index.md) | [Links](./link.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
+| [Home](./home.md) | [Index](./index.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |

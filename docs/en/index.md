@@ -14,9 +14,7 @@ Unofficial mirrors or repackaged files from third parties are not recommended, a
 
 [Back to Home](./home.md)
 
----
-
-## 📦 Original Resource Pack Projects
+## Original Resource Pack Projects
 
 <details>
 <summary>ALYBH‑REconstruction Style</summary>
@@ -25,6 +23,9 @@ Unofficial mirrors or repackaged files from third parties are not recommended, a
 
 - **[ALYBH‑REconstruction](./project-original/alybh-re-construction.md)**
 A set of resource packs that keeps vanilla color palettes while redrawing block and item textures. It includes base textures, mob textures, 3D models, emissive textures, 512x parallax textures, shield & banner conversion textures, simplified PVP textures and optional add‑on packs; some can be freely combined.
+
+- **[Cute Blocky Silverfish](./project-original/cute-blocky-silverfish.md)**
+Updates the Silverfish with a blockier, 20% cuter design! Furthermore, additional functionality can be realized with the help of game mods.
 </details>
 
 <details>
@@ -32,7 +33,7 @@ A set of resource packs that keeps vanilla color palettes while redrawing block 
 
 > Resource packs built around Minecraft’s vanilla art style.
 
-- **[3D Vanilla‑like Items](./project-original/3d-vanilla-like-item.md)**
+- **[3D Vanilla‑like Items](./project-original/3d-vanilla-like-items.md)**
 Adds emboss-style vanilla-friendly 3D models for swords, tools, bows, crossbows, arrows and more. Texture layouts are highly compatible with vanilla, making it easy for texture replacement and further edits.
 
 - **[Bow and Crossbow Visual Changes](./project-original/bow-and-crossbow-visual-change.md)**
@@ -59,13 +60,10 @@ Requires the CIT‑Enchantment feature from CIT Resewn or OptiFine. Players can 
 
 > Resource packs without a dedicated category for now.
 
-- **[Cute Blocky Silverfish](./project-original/cute-blocky-silverfish.md)**
-Redesigns silverfish into blocky models, cuteness increased by 20%!
-
 - **[Croissant Silverfish](./project-original/croissant-silverfish.md)**
 Croissant‑themed textures and models for silverfish, adding bakery‑style fun and humor to the game.
 </details>
 
 ---
 
-| [Home](./home.md) | [Index](./index.md) | [Links](./link.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
+| [Home](./home.md) | [Index](./index.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |

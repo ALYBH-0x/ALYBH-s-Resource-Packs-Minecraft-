@@ -1,5 +1,7 @@
 | [简体中文](../zh-Hans/resource-packs-license.md) | [繁體中文](../zh-Hant/resource-packs-license.md) | [English](../en/resource-packs-license.md) |
 
+| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./links.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
+
 ---
 
 # 许可证
@@ -14,13 +16,11 @@
 
 点击展开分类，即可浏览详情。
 
-[返回主页](./home.md)
-
 ---
 
 ## 知识共享许可
 
-### 🟢 CC BY-NC-SA 4.0
+### CC BY-NC-SA 4.0
 
 > 知识共享署名 — 非商业性使用 — 相同方式共享 4.0 国际公共许可证
 
@@ -75,7 +75,7 @@ CC-BY-NC-SA 4.0
 
 ## 自定义许可
 
-### 🟡 CUSTOM LICENSE FOR ALYBH'S RESOURCE PACKS (MINECRAFT)
+### CUSTOM LICENSE FOR ALYBH'S RESOURCE PACKS (MINECRAFT)
 
 > ALYBH 的 Minecraft 资源包自定义许可证
 
@@ -152,9 +152,9 @@ CUSTOM LICENSE FOR ALYBH’S RESOURCE PACKS (MINECRAFT)
 
 ---
 
-## ℹ️ Minecraft 声明
+## Minecraft 声明
 
-**当本作品作为 Minecraft 的资源包或于 Minecraft 生态内使用时，用户同时需要遵守 Minecraft 的《最终用户许可协议（EULA）》及《服务条款（Terms of Service）》。该要求仅适用于本作品与 Minecraft 相关的使用行为，不影响本作品自身的著作权归属，也不影响本许可证授予用户的许可。**
+**当本作品作为 Minecraft 的资源包或于 Minecraft 生态内（包括玩家社区、粉丝同人圈等）使用时，用户同时需要遵守 Minecraft 的《最终用户许可协议（EULA）》及《服务条款（Terms of Service）》。该要求仅适用于本作品与 Minecraft 相关的使用行为，不影响本作品自身的著作权归属，也不影响本许可证授予用户的许可。**
 
 本作品为独立创作，并非 Minecraft 官方产品，亦未获得 Mojang Studios 或 Microsoft 的认可、授权、赞助或其他关联。
 
@@ -162,4 +162,4 @@ Minecraft 为 Mojang Studios 的商标。本许可证中的任何内容**均不�
 
 ---
 
-| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./link.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
+| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./links.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
