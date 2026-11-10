@@ -46,7 +46,7 @@ Swaps the first‑person held visuals of bows and crossbows. It is also split in
 > Resource packs focused on enchantment glint textures.
 
 - **[ALYBH‑REnchantment Glints](./project-original/alybh-re-enchantment-glint.md)**
-A collection of enchantment glint packs with dozens of alternative shimmer effects in different colors, gradients and patterns. No mods required.
+A collection of enchantment glint packs with dozens of alternatives in different colors, gradients and patterns. No mods required.
 
 - **[ALYBH's CIT Recolored Enchantment Glints](./project-original/alybh-cit-recolored-enchantment-glint.md)**
 Requires the CIT‑Enchantment feature from CIT Resewn or OptiFine. Uses CIT to automatically assign different glint colors based on enchantment types, so you can tell enchanted items apart at a glance.
@@ -62,6 +62,15 @@ Requires the CIT‑Enchantment feature from CIT Resewn or OptiFine. Players can 
 
 - **[Croissant Silverfish](./project-original/croissant-silverfish.md)**
 Croissant‑themed textures and models for silverfish, adding bakery‑style fun and humor to the game.
+</details>
+
+<details>
+<summary>Archived</summary>
+
+> Resource packs no longer maintained or updated, kept only for archival reference.
+
+- **[ALYBH Collection](./project-original/alybh.md)**
+An old personal resource pack collection for earlier Minecraft versions.
 </details>
 
 ---

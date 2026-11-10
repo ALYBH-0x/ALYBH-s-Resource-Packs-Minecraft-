@@ -30,79 +30,79 @@
 <details>
 <summary>资源包列表</summary>
 
-| 编号    | 颜色、样式名       | 备注                           |
+| 编号 | 颜色、样式名 | 备注 |
 |----|----|----|
-|   000   | [彩虹色](https://modrinth.com/project/uyjYjzm8)              | 来自 [ALYBH-RE](https://modrinth.com/project/XXdgF0ix)             |
-|   001   | [红色](https://modrinth.com/project/Wepka5py)               | -                              |
-|   002   | [橙色](https://modrinth.com/project/nqB2wyhp)               | -                              |
-|   003   | [黄色](https://modrinth.com/project/GIzftaK5)               | -                              |
-|   004   | [黄绿色](https://modrinth.com/project/tqulKJCR)             | -                              |
-|   005   | [绿色](https://modrinth.com/project/AdRttCgL)               | -                              |
-|   006   | [碧绿色](https://modrinth.com/project/kxErzQD2)             | -                              |
-|   007   | [青色](https://modrinth.com/project/wKabDUUq)               | -                              |
-|   008   | [湛蓝色](https://modrinth.com/project/aOgSJJ5S)             | -                              |
-|   009   | [蓝色](https://modrinth.com/project/8eN9xf1S)               | -                              |
-|   010   | [紫色](https://modrinth.com/project/roLDT635)               | -                              |
-|   011   | [品红色](https://modrinth.com/project/EOedcRIS)             | -                              |
-|   012   | [玫红色](https://modrinth.com/project/QMaXe4PZ)             | -                              |
-|   013   | [霓虹色](https://modrinth.com/project/TU5SFcOv)             | 更鲜艳的 '彩虹色' (000)        |
-|   014   | [薄荷绿](https://modrinth.com/project/lEYsMYWr)             | -                              |
-|   015   | [灰色](https://modrinth.com/project/DIAuv5GK)               | -                              |
-|   016   | [粉色](https://modrinth.com/project/KjB2OCgW)               | -                              |
-|   017   | [棕色](https://modrinth.com/project/PotUbRZ4)               | -                              |
-|   018   | [薰衣草紫](https://modrinth.com/project/ZYa77ppa)           | -                              |
-|   019   | [白色/银色](https://modrinth.com/project/6vlrwdPQ)               | -                              |
-|   020   | [白色光点](https://modrinth.com/project/8WJcBPtl)           | 斑点图案                       |
-|   021   | [彩虹光点](https://modrinth.com/project/IcKGz9QV)           | 斑点图案                       |
-|   022   | [彩虹过渡](https://modrinth.com/project/80iA767F)           | -                              |
-|   023   | [霓虹过渡](https://modrinth.com/project/W8pmavPE)           | 更鲜艳的 '彩虹过渡' (022)      |
-|   024   | [红橙黄渐变](https://modrinth.com/project/arzSOyQ7)         | 红色、橙色、黄色               |
-|   025   | [黄绿渐变](https://modrinth.com/project/w7PpEeGS)           | 黄色、黄绿色、绿色             |
-|   026   | [青湛蓝渐变](https://modrinth.com/project/J7gyiMMJ)         | 青色、湛蓝色、蓝色             |
-|   027   | [蓝紫品渐变](https://modrinth.com/project/fibHtE00)         | 蓝色、紫色、品红色             |
-|   028   | [青品黄渐变](https://modrinth.com/project/gexnR8g8)         | 青色、品红色、黄色             |
-|   029   | [铜渐变](https://modrinth.com/project/YWp1kXVW)             | 金属风格渐变                   |
-|   030   | [铁渐变](https://modrinth.com/project/h6SYYE3o)             | 金属风格渐变                   |
-|   031   | [金渐变](https://modrinth.com/project/QMsKkhM9)             | 金属风格渐变                   |
-|   032   | [钻石渐变](https://modrinth.com/project/nZNWcFLU)           | 金属风格渐变                   |
-|   033   | [绿宝石渐变](https://modrinth.com/project/mwQvKXnj)         | 金属风格渐变                   |
-|   034   | [红玉渐变](https://modrinth.com/project/iSEiDLkj)           | 金属风格渐变                   |
-|   035   | [紫水晶渐变](https://modrinth.com/project/SCAm7vQH)         | 金属风格渐变                   |
-|   036   | [青金石渐变](https://modrinth.com/project/ueibrKIY)         | 金属风格渐变                   |
-|   037   | [下界合金渐变](https://modrinth.com/project/KhAhaYnF)       | -                              |
-|   038   | [迪斯科光点](https://modrinth.com/project/k7lnPqh8)         | 红、蓝、绿大光点               |
-|   039   | [铬黄渐变](https://modrinth.com/project/onLBrw8W)           | 铬金属风格渐变                              |
-|   040   | [彩虹过渡方框](https://modrinth.com/project/VXFxgCxR) | - |
-|   041   | [紫红渐变方框](https://modrinth.com/project/1BNfPRvB) | 💜🔴 |
-|   042   | [粉紫过渡方框](https://modrinth.com/project/PtSx8bJe) | 💜✨ |
-|   043   | [红橙过渡方框](https://modrinth.com/project/gtOguevo) | - |
-|   044   | [黄绿过渡方框](https://modrinth.com/project/mVQWDdrI) | - |
-|   045   | [青蓝过渡方框](https://modrinth.com/project/ed5tBq0X) | - |
-|   046   | [青品黄过渡方框](https://modrinth.com/project/uMwxks84) | - |
-|   047   | [红青渐显方框](https://modrinth.com/project/r7rqtfHu) | - |
-|   048   | [红粉爱心](https://modrinth.com/project/Nnu7n49N) | - |
-|   049   | [铜绿沙尘](https://modrinth.com/project/gBAyQ7lF) | - |
-|   050   | [彩虹脉冲符文](https://modrinth.com/project/vwH5QJDU) | 参考了游戏中的附魔台 |
-|   051   | [紫色脉冲符文](https://modrinth.com/project/IrFi2Orh) | 参考了游戏中的附魔台 |
-|   052   | [白色脉冲符文](https://modrinth.com/project/FLwhXw9k) | 参考了游戏中的附魔台 |
-|   053   | [湛蓝渐显符文](https://modrinth.com/project/cdyhbDU2) | 参考了游戏中的附魔台 |
-|   054   | [金黄渐显符文](https://modrinth.com/project/AIaJJbPA) | 参考了游戏中的附魔台 |
-|   055   | [彩虹二进制代码](https://modrinth.com/project/evf7KZ5q) | - |
-|   056   | [绿色二进制代码](https://modrinth.com/project/spD3zlwJ) | - |
-|   057   | [青色二进制代码](https://modrinth.com/project/ImhW78zW) | - |
-|   058   | [红色二进制代码](https://modrinth.com/project/uDLKiY5s) | - |
-|   059   | [红绿渐显二进制代码](https://modrinth.com/project/MZjuOjH4) | - |
-|   060   | [彩虹星点粉尘](https://modrinth.com/project/sORlCzei) | - |
-|   061   | [金沙粉尘](https://modrinth.com/project/hmJuKAxe) | - |
-|   062   | [红沙粉尘](https://modrinth.com/project/tcdmzARi) | - |
-|   063   | [雪花粉尘](https://modrinth.com/project/Ds0KrkSb) | - |
-|   064   | [青色灵魂粉尘](https://modrinth.com/project/EmjmfWSy) | - |
-|   065   | [燧石粉尘](https://modrinth.com/project/8O5AFKxS) | 不是很好笑 |
-|   066   | [彩虹电路走线](https://modrinth.com/project/lfcXc5Gk) | - |
-|   067   | [紫色电路走线](https://modrinth.com/project/DIhmAkjf) | - |
-|   068   | [绿色电路走线](https://modrinth.com/project/iWEFjcde) | - |
-|   069   | [青色电路走线](https://modrinth.com/project/K2L1pjfW) | - |
-|   070   | [绿色反相电路走线](https://modrinth.com/project/fB17DfrL) | - |
+| 000 | [彩虹色](https://modrinth.com/project/uyjYjzm8) | 来自 [ALYBH-RE](https://modrinth.com/project/XXdgF0ix) |
+| 001 | [红色](https://modrinth.com/project/Wepka5py) | - |
+| 002 | [橙色](https://modrinth.com/project/nqB2wyhp) | - |
+| 003 | [黄色](https://modrinth.com/project/GIzftaK5) | - |
+| 004 | [黄绿色](https://modrinth.com/project/tqulKJCR) | - |
+| 005 | [绿色](https://modrinth.com/project/AdRttCgL) | - |
+| 006 | [碧绿色](https://modrinth.com/project/kxErzQD2) | - |
+| 007 | [青色](https://modrinth.com/project/wKabDUUq) | - |
+| 008 | [湛蓝色](https://modrinth.com/project/aOgSJJ5S) | - |
+| 009 | [蓝色](https://modrinth.com/project/8eN9xf1S) | - |
+| 010 | [紫色](https://modrinth.com/project/roLDT635) | - |
+| 011 | [品红色](https://modrinth.com/project/EOedcRIS) | - |
+| 012 | [玫红色](https://modrinth.com/project/QMaXe4PZ) | - |
+| 013 | [霓虹色](https://modrinth.com/project/TU5SFcOv) | 更鲜艳的 '彩虹色' (000) |
+| 014 | [薄荷绿](https://modrinth.com/project/lEYsMYWr) | - |
+| 015 | [灰色](https://modrinth.com/project/DIAuv5GK) | - |
+| 016 | [粉色](https://modrinth.com/project/KjB2OCgW) | - |
+| 017 | [棕色](https://modrinth.com/project/PotUbRZ4) | - |
+| 018 | [薰衣草紫](https://modrinth.com/project/ZYa77ppa) | - |
+| 019 | [白色/银色](https://modrinth.com/project/6vlrwdPQ) | - |
+| 020 | [白色光点](https://modrinth.com/project/8WJcBPtl) | 斑点图案 |
+| 021 | [彩虹光点](https://modrinth.com/project/IcKGz9QV) | 斑点图案 |
+| 022 | [彩虹过渡](https://modrinth.com/project/80iA767F) | - |
+| 023 | [霓虹过渡](https://modrinth.com/project/W8pmavPE) | 更鲜艳的 '彩虹过渡' (022) |
+| 024 | [红橙黄渐变](https://modrinth.com/project/arzSOyQ7) | 红色、橙色、黄色 |
+| 025 | [黄绿渐变](https://modrinth.com/project/w7PpEeGS) | 黄色、黄绿色、绿色 |
+| 026 | [青湛蓝渐变](https://modrinth.com/project/J7gyiMMJ) | 青色、湛蓝色、蓝色 |
+| 027 | [蓝紫品渐变](https://modrinth.com/project/fibHtE00) | 蓝色、紫色、品红色 |
+| 028 | [青品黄渐变](https://modrinth.com/project/gexnR8g8) | 青色、品红色、黄色 |
+| 029 | [铜渐变](https://modrinth.com/project/YWp1kXVW) | 金属风格渐变 |
+| 030 | [铁渐变](https://modrinth.com/project/h6SYYE3o) | 金属风格渐变 |
+| 031 | [金渐变](https://modrinth.com/project/QMsKkhM9) | 金属风格渐变 |
+| 032 | [钻石渐变](https://modrinth.com/project/nZNWcFLU) | 金属风格渐变 |
+| 033 | [绿宝石渐变](https://modrinth.com/project/mwQvKXnj) | 金属风格渐变 |
+| 034 | [红玉渐变](https://modrinth.com/project/iSEiDLkj) | 金属风格渐变 |
+| 035 | [紫水晶渐变](https://modrinth.com/project/SCAm7vQH) | 金属风格渐变 |
+| 036 | [青金石渐变](https://modrinth.com/project/ueibrKIY) | 金属风格渐变 |
+| 037 | [下界合金渐变](https://modrinth.com/project/KhAhaYnF) | - |
+| 038 | [迪斯科光点](https://modrinth.com/project/k7lnPqh8) | 红、蓝、绿大光点 |
+| 039 | [铬黄渐变](https://modrinth.com/project/onLBrw8W) | 铬金属风格渐变 |
+| 040 | [彩虹过渡方框](https://modrinth.com/project/VXFxgCxR) | - |
+| 041 | [紫红渐变方框](https://modrinth.com/project/1BNfPRvB) | 💜🔴 |
+| 042 | [粉紫过渡方框](https://modrinth.com/project/PtSx8bJe) | 💜✨ |
+| 043 | [红橙过渡方框](https://modrinth.com/project/gtOguevo) | - |
+| 044 | [黄绿过渡方框](https://modrinth.com/project/mVQWDdrI) | - |
+| 045 | [青蓝过渡方框](https://modrinth.com/project/ed5tBq0X) | - |
+| 046 | [青品黄过渡方框](https://modrinth.com/project/uMwxks84) | - |
+| 047 | [红青渐显方框](https://modrinth.com/project/r7rqtfHu) | - |
+| 048 | [红粉爱心](https://modrinth.com/project/Nnu7n49N) | - |
+| 049 | [铜绿沙尘](https://modrinth.com/project/gBAyQ7lF) | - |
+| 050 | [彩虹脉冲符文](https://modrinth.com/project/vwH5QJDU) | 参考了游戏中的附魔台 |
+| 051 | [紫色脉冲符文](https://modrinth.com/project/IrFi2Orh) | 参考了游戏中的附魔台 |
+| 052 | [白色脉冲符文](https://modrinth.com/project/FLwhXw9k) | 参考了游戏中的附魔台 |
+| 053 | [湛蓝渐显符文](https://modrinth.com/project/cdyhbDU2) | 参考了游戏中的附魔台 |
+| 054 | [金黄渐显符文](https://modrinth.com/project/AIaJJbPA) | 参考了游戏中的附魔台 |
+| 055 | [彩虹二进制代码](https://modrinth.com/project/evf7KZ5q) | - |
+| 056 | [绿色二进制代码](https://modrinth.com/project/spD3zlwJ) | - |
+| 057 | [青色二进制代码](https://modrinth.com/project/ImhW78zW) | - |
+| 058 | [红色二进制代码](https://modrinth.com/project/uDLKiY5s) | - |
+| 059 | [红绿渐显二进制代码](https://modrinth.com/project/MZjuOjH4) | - |
+| 060 | [彩虹星点粉尘](https://modrinth.com/project/sORlCzei) | - |
+| 061 | [金沙粉尘](https://modrinth.com/project/hmJuKAxe) | - |
+| 062 | [红沙粉尘](https://modrinth.com/project/tcdmzARi) | - |
+| 063 | [雪花粉尘](https://modrinth.com/project/Ds0KrkSb) | - |
+| 064 | [青色灵魂粉尘](https://modrinth.com/project/EmjmfWSy) | - |
+| 065 | [燧石粉尘](https://modrinth.com/project/8O5AFKxS) | 不是很好笑 |
+| 066 | [彩虹电路走线](https://modrinth.com/project/lfcXc5Gk) | - |
+| 067 | [紫色电路走线](https://modrinth.com/project/DIhmAkjf) | - |
+| 068 | [绿色电路走线](https://modrinth.com/project/iWEFjcde) | - |
+| 069 | [青色电路走线](https://modrinth.com/project/K2L1pjfW) | - |
+| 070 | [绿色反相电路走线](https://modrinth.com/project/fB17DfrL) | - |
 </details>
 
 ## 兼容性
@@ -157,7 +157,7 @@ CC BY-NC-SA 4.0
 
 详情见[许可证](../resource-packs-license.md)页面。
 
-> _在 2026 年 6 月 23 日（GMT+8）之前，本作品发布时未明确指定许可协议，因此默认适用“保留所有权利（All Rights Reserved，ARR）”。自 2026 年 6 月 23 日（GMT+8）起，除非另有说明，作者已将本作品（包括此前已发布的版本）重新许可（relicense）为适用本许可证。本次变更仅涉及许可协议，不应解释为任何此前发布版本已被修改、重新发布或重新分发。_  
+> 在 2026 年 6 月 23 日（GMT+8）之前，本作品发布时未明确指定许可协议，因此默认适用“保留所有权利（All Rights Reserved，ARR）”。自 2026 年 6 月 23 日（GMT+8）起，除非另有说明，作者已将本作品（包括此前已发布的版本）重新许可（relicense）为适用本许可证。本次变更仅涉及许可协议，不应解释为任何此前发布版本已被修改、重新发布或重新分发。
 
 ---
 

@@ -14,7 +14,6 @@
 - Modrinth：https://modrinth.com/project/rNKiWRiR
 </details>
 
-
 ## 內容簡介
 
 這是一款充滿創意的 Minecraft 資源包，將原本令人毛骨悚然的蠹蟲變成了一羣活潑可愛的可頌麪包生物。
