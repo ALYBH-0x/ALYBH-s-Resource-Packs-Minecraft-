@@ -53,7 +53,7 @@ In most cases, silverfish pick an appearance matching the block they spawn in, w
 **Infested block variants:**
 
 | Spawn Source | Primary Appearance | Weight Distribution | Total Weight |
-|----------|----------|----------|----------|
+| --- | --- | --- | --- |
 | Stone | Stone Silverfish | Stone: 8 • Cobblestone: 2 | 10 |
 | Cobblestone | Cobblestone Silverfish | Stone: 2 • Cobblestone: 8 | 10 |
 | Stone Bricks | Stone Brick Silverfish | Stone: 1 • Cobblestone: 1 • Stone Bricks: 17 • Cracked Stone Bricks: 1 | 20 |
@@ -64,7 +64,7 @@ In most cases, silverfish pick an appearance matching the block they spawn in, w
 **Trial Chamber blocks:**
 
 | Spawn Source | Primary Appearance | Weight Distribution | Total Weight |
-|----------|----------|----------|----------|
+| --- | --- | --- | --- |
 | Copper Block | Blocky Copper Silverfish | Stone: 1 • Copper Block: 4 | 5 |
 | Exposed Copper | Mixed Copper Silverfish | Stone: 3 • Copper Block: 5 • Exposed Copper: 5 • Oxidized Copper: 2 | 15 |
 | Weathered Copper | Mixed Copper Silverfish | Stone: 3 • Copper Block: 2 • Exposed Copper: 5 • Oxidized Copper: 5 | 15 |
@@ -73,7 +73,7 @@ In most cases, silverfish pick an appearance matching the block they spawn in, w
 **Other sources:**
 
 | Spawn Source | Primary Appearance | Weight Distribution | Total Weight |
-|----------|----------|----------|----------|
+| --- | --- | --- | --- |
 | Copper Ore | Mixed Copper Silverfish | Copper Block: 1 • Exposed Copper: 3 • Oxidized Copper: 1 | 5 |
 | Hay Bale | Croissant Silverfish | Croissant: 1 | 1 |
 | Gold Block | Gold Silverfish | Gold: 1 | 1 |
@@ -92,7 +92,7 @@ In most cases, silverfish pick an appearance matching the block they spawn in, w
 <summary>Available ID list</summary>
 
 | Silverfish Appearance | Valid IDs | Notes |
-|----------|----------|----------|
+| --- | --- | --- |
 | Stone | stone | - |
 | Cobblestone | cobblestone | - |
 | Stone Bricks | stone_bricks | - |
@@ -123,7 +123,7 @@ In most cases, silverfish pick an appearance matching the block they spawn in, w
 <summary>Variant table</summary>
 
 | Primary Appearance | Weight Distribution | Total Weight |
-|----------|----------|----------|
+| --- | --- | --- |
 | Croissant Silverfish | Croissant: 41 • Gold: 1 | 42 |
 
 <details>
@@ -153,7 +153,7 @@ In most cases, silverfish pick an appearance matching the block they spawn in, w
 <summary>Available ID list</summary>
 
 | Spawn Egg Appearance | Valid IDs | Notes |
-|----------|----------|----------|
+| --- | --- | --- |
 | Stone | stone | - |
 | Cobblestone | cobblestone | - |
 | Stone Bricks | stone_bricks | - |

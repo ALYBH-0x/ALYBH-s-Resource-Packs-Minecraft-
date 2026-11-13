@@ -30,7 +30,7 @@ All effects are implemented purely via resource packs and do not alter game mech
 <summary>Resource Pack List</summary>
 
 | ID | Name / Style | Notes |
-|----|----|----|
+| --- | --- | --- |
 | 000 | [Rainbow](https://modrinth.com/project/uyjYjzm8) | From [ALYBH-RE](https://modrinth.com/project/XXdgF0ix) |
 | 001 | [Red](https://modrinth.com/project/Wepka5py) | - |
 | 002 | [Orange](https://modrinth.com/project/nqB2wyhp) | - |
@@ -108,26 +108,27 @@ All effects are implemented purely via resource packs and do not alter game mech
 
 ### Supported Versions
 
-Works on **Minecraft Java Edition 1.15 and newer**.
+Compatible with **Minecraft Java Edition 1.15 and newer**.
+Resource packs featuring patterned visuals work best on **1.19.4 and above**.
 
-Minecraft changed the enchantment glint rendering pipeline starting with Java Edition 1.19.4, **so visuals will differ between versions before and after 1.19.4**.
+Minecraft revised the enchantment glint rendering pipeline as of Java Edition 1.19.4, **causing visual differences between pre-1.19.4 and post-1.19.4 versions**.
 
-On **Minecraft Java Edition 1.19.4 and newer**, you can adjust glint brightness and animation speed via **Accessibility Settings**, which also applies to these resource packs.
+On **Minecraft Java Edition 1.19.4 and newer**, you may tweak glint brightness and animation speed in **Accessibility Settings**, and these changes apply to such resource packs as well.
 
-**A small subset of these packs can run on other versions, but results are subpar (see Details below).**
+**A small subset of these packs are usable on other versions, though the output is not ideal** (see Details below).
 
 <details>
 <summary>Details</summary>
 
-On older **Minecraft Java Edition versions prior to 1.15** and **Minecraft Bedrock Edition**, these packs may load, but visuals will be degraded. Only simple hue swaps (such as blue → purple → red) may work somewhat as expected.
+On older **Minecraft Java Edition versions prior to 1.15** and **Minecraft Bedrock Edition**, these packs may load, but visuals will be degraded. **Only simple hue swaps (such as blue → purple → red) may work somewhat as expected.**
 
 **This limitation cannot be fixed merely by editing texture files, since these versions use a different glint rendering pipeline.** Comparable effects normally require mods, shaders or internal game edits — for example, OptiFine’s CIT-Enchantment feature.
 
-When used directly on those unsupported versions, color shifting is heavily weakened and drawn patterns will fail to display correctly. Usually only blue, purple and red retain reasonable results; other colors or complex patterned textures will show heavy color drift or loss of brightness.
+**When used directly on those unsupported versions, color shifting is heavily weakened and drawn patterns will fail to display correctly.** Usually only blue, purple and red retain reasonable results; other colors or complex patterned textures will show heavy color drift or loss of brightness.
 
 **This happens because glint color is hardcoded to purple by the renderer on those builds.** The glint texture is not rendered directly, but acts as a color multiplier. Its RGB channels only control the intensity of each color channel and cannot faithfully reproduce the texture’s native colors and details. Since this fixed purple is made mostly from red and blue with very little green, **blue, purple and red hold up relatively well, while green, yellow, cyan and others will shift drastically or dim down.**
 
-Additionally, porting these packs to Bedrock by only converting file structures is not recommended unless you only need simple limited swaps such as a blue glint. Bedrock’s glint sampler further blurs and pixelates texture details, making patterns degrade even more.
+**Additionally, porting these packs to Bedrock by only converting file structures is not recommended unless you only need simple limited swaps such as a blue glint.** Bedrock’s glint sampler further blurs and pixelates texture details, making patterns degrade even more.
 
 </details>
 

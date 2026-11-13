@@ -1,6 +1,6 @@
 | [简体中文](../zh-Hans/contact.md) | [繁體中文](../zh-Hant/contact.md) | [English](../en/contact.md) |
 
-| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./links.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
+| [主页](./home.md) | [内容索引](./index.md) | [安装指导](./installation.md) | [相关链接](./links.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
 
 ---
 
@@ -45,4 +45,4 @@ Email：`ALYBH-0x@outlook.com`
 
 ---
 
-| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./links.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
+| [主页](./home.md) | [内容索引](./index.md) | [安装指导](./installation.md) | [相关链接](./links.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |

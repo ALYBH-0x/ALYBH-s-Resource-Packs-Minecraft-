@@ -1,5 +1,7 @@
 | [简体中文](../zh-Hans/index.md) | [繁體中文](../zh-Hant/index.md) | [English](../en/index.md) |
 
+| [Home](./home.md) | [Index](./index.md) | [Installation](./installation.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
+
 ---
 
 # Index
@@ -75,4 +77,4 @@ An old personal resource pack collection for earlier Minecraft versions.
 
 ---
 
-| [Home](./home.md) | [Index](./index.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
+| [Home](./home.md) | [Index](./index.md) | [Installation](./installation.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |

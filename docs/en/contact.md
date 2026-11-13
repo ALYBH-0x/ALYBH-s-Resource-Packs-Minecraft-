@@ -1,5 +1,7 @@
 | [简体中文](../zh-Hans/contact.md) | [繁體中文](../zh-Hant/contact.md) | [English](../en/contact.md) |
 
+| [Home](./home.md) | [Index](./index.md) | [Installation](./installation.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
+
 ---
 
 # Contact
@@ -45,4 +47,4 @@ Bilibili：https://space.bilibili.com/3707013659888454
 
 ---
 
-| [Home](./home.md) | [Index](./index.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
+| [Home](./home.md) | [Index](./index.md) | [Installation](./installation.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |

@@ -20,79 +20,12 @@ Also, **THESE RESOURCE PACKS ARE FREE! If you have paid for this resource pack, 
 
 [Index](./index.md): Full catalog of resource packs. Expand categories to view all entries.
 
+[Installation](./installation.md): Instructions on resource pack installation, including potential dependencies.
+
 [Links](./links.md): Distribution pages, community platforms and related accounts.
 
 [Contact](./contact.md): Channels for messages, feedback and suggestions.
 
 [License](./resource-packs-license.md): Terms of use, restrictions and rights statement for these resource packs.
 
-## Installation Instructions
-
-> Expand the section to view detailed steps.
-
-<details>
-<summary>Install via Modrinth App</summary>
-
-1. Install the latest version of the Modrinth App.
-2. Create a new Minecraft instance or select an existing one compatible with the resource pack.
-3. Open the instance and navigate to **Resource Packs**.
-4. Install the resource pack by either:
-   - Clicking **Add Content**, searching for the resource pack, and selecting **Install**.
-   - Dragging the downloaded **.zip** file directly into the Resource Packs page.
-5. Launch the instance.
-6. In Minecraft, open **Options → Resource Packs**, move the resource pack to **Selected**, then click **Done**.
-</details>
-
-<details>
-<summary>Install via supported launchers with Modrinth search</summary>
-
-_Requirement: The launcher supports built-in Modrinth resource library retrieval. PCL2 is used as example here._
-
-1. Open PCL2.
-2. Click the Download tab on the main page.
-3. Enter the Resource Packs category.
-4. Search the **English name** of this resource pack in the search box.
-5. Locate the resource pack, select the release version matching your Minecraft instance.
-6. Download it; PCL2 will automatically install it into the target instance.
-7. Launch the instance.
-8. In Minecraft, open **Options → Resource Packs**, move the resource pack to **Selected**, then click **Done**.
-</details>
-
-<details>
-<summary>Install manually</summary>
-
-1. Download the resource pack and keep it in **.zip** format.
-2. Open the resource pack folder by either:
-   - In-game **Options → Resource Packs → Open Pack Folder**
-   - Or manually locating:
-
-   **Windows**
-   ```text
-   %AppData%\.minecraft\resourcepacks
-   ```
-
-   **macOS**
-   ```text
-   ~/Library/Application Support/minecraft/resourcepacks
-   ```
-
-   **Linux**
-   ```text
-   ~/.minecraft/resourcepacks
-   ```
-
-3. Copy the downloaded **.zip** file into the **resourcepacks** folder.
-4. Refresh the resource pack list or restart Minecraft if necessary.
-5. Enable the resource pack via **Options → Resource Packs**.
-</details>
-
-### Notes
-
-- Keep the resource pack as a **.zip** file unless instructed otherwise.
-- Resource packs higher in the list take priority over those below.
-- Some resource packs require additional mods or shaders for the intended visual effects.
-
 ---
-
-| [Home](./home.md) | [Index](./index.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
-

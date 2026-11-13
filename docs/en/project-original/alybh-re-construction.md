@@ -34,7 +34,7 @@ These subpacks can also be used standalone when their respective requirements ar
 **Main Resource Pack**: Main pack [ALYBH-REconstruction](https://modrinth.com/project/XXdgF0ix). It contains all components listed below:
 
 | Name | Description | Minimum Supported Version |
-|----------|----------|----------------|
+| --- | --- | :---: |
 | [Essential](https://modrinth.com/project/jENldH2N) | Core texture assets including blocks, items, GUI, particles, misc assets and armor. | 1.6+ |
 | [Entity](https://modrinth.com/project/z03jsnwL) | Mob textures to complement the Essential pack. | 1.6+ |
 | [Models](https://modrinth.com/project/BgAaemDA) | 3D models and matching textures for blocks and items. | 1.13+ |
@@ -44,7 +44,7 @@ These subpacks can also be used standalone when their respective requirements ar
 **Additional Optional Packs**: Extra packs you may install optionally.
 
 | Name | Description | Minimum Supported Version |
-|----------|----------|----------------|
+| --- | --- | :---: |
 | [Shield to Banner Pattern](https://modrinth.com/project/ZjjnSUaf) | Replaces shield patterns with matching banner patterns. | 1.8+ |
 | [PVP-Lite](https://modrinth.com/project/UjVnPaxc) | Visual tweaks and optimizations for PvP. | 1.6+ |
 
@@ -56,7 +56,7 @@ These subpacks can also be used standalone when their respective requirements ar
 > Some packs may load outside the listed range (usually newer releases) but may have missing content; such cases are not officially supported.
 
 | ID | Name | Supported Versions | Dependencies |
-|----|----|----|----|
+| --- | --- | :---: | --- |
 | A | Essential | 1.6.1–1.21.1 | - |
 | B | Entity | 1.6.1–1.21.1 | - |
 | C | Models | 1.13–1.21.1 | - |
@@ -86,7 +86,7 @@ This table shows pairwise compatibility when all required dependencies are insta
 > This is a symmetric compatibility matrix; only the lower-left triangle is filled. Swapping rows and columns yields identical results.
 
 | ID | A | B | C | D | E | a | b |
-|----|----|----|----|----|----|----|----|
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | A | ✅ |  |  |  |  |  |  |
 | B | ✅ | ✅ |  |  |  |  |  |
 | C | ⚠️ | ✅ | ✅ |  |  |  |  |
@@ -99,7 +99,7 @@ This table shows pairwise compatibility when all required dependencies are insta
 - Emissive (D) + Essential (A) + Entity (B) = ✅. D includes emissive assets for both A and B. If paired with only one of them, the missing set of textures results in ℹ️.
 - Emissive (D) also has emissive textures made for Models (C), but without Essential (A) and Entity (B), the state remains ℹ️. If all four are enabled, A and C together give ⚠️. With the intended load order C ＞ A, the four-pack combination becomes ✅.
 
-Notes:
+**Notes:**
 1. ℹ️ only applies when required companion packs are missing. Assets in D made for packs you are not using do not count as missing. So A + B + D stays ✅ even without C.
 2. The full main set is A + B + C + D + E. Load priority inside this set is C ＞ A.
 

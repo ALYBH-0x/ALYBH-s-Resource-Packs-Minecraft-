@@ -31,7 +31,7 @@
 <summary>资源包列表</summary>
 
 | 编号 | 颜色、样式名 | 备注 |
-|----|----|----|
+| --- | --- | --- |
 | 000 | [彩虹色](https://modrinth.com/project/uyjYjzm8) | 来自 [ALYBH-RE](https://modrinth.com/project/XXdgF0ix) |
 | 001 | [红色](https://modrinth.com/project/Wepka5py) | - |
 | 002 | [橙色](https://modrinth.com/project/nqB2wyhp) | - |
@@ -109,13 +109,13 @@
 
 ### 适用版本
 
-适用于 **《Minecraft》Java 版 1.15 及以上**的版本。
+适用于 **《Minecraft》Java 版 1.15 及以上**的版本。带有图案视觉效果的资源包在 1.19.4 及以上的版本表现更佳。
 
 由于《Minecraft》于 Java 版 1.19.4 对附魔光效渲染方式进行了调整，**该资源包的视觉效果会在 1.19.4 前后的不同版本出现部分差异**。
 
 在 **《Minecraft》Java 版 1.19.4 及以上**，可以通过修改游戏内的 **辅助功能设置** 来进一步自定义游戏内显示的光效强度以及动画速度，这同样也会适用于此类资源包。
 
-**少部分资源包也能兼容其他游戏版本**，但效果欠佳（详见下文“细节”）。
+**少部分资源包也能用于其他游戏版本**，但效果欠佳（详见下文“细节”）。
 
 <details>
 

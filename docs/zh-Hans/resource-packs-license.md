@@ -1,6 +1,6 @@
 | [简体中文](../zh-Hans/resource-packs-license.md) | [繁體中文](../zh-Hant/resource-packs-license.md) | [English](../en/resource-packs-license.md) |
 
-| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./links.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
+| [主页](./home.md) | [内容索引](./index.md) | [安装指导](./installation.md) | [相关链接](./links.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
 
 ---
 
@@ -162,4 +162,4 @@ Minecraft 为 Mojang Studios 的商标。本许可证中的任何内容**均不�
 
 ---
 
-| [主页](./home.md) | [内容索引](./index.md) | [相关链接](./links.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |
+| [主页](./home.md) | [内容索引](./index.md) | [安装指导](./installation.md) | [相关链接](./links.md) | [联系方式](./contact.md) | [许可证](./resource-packs-license.md) |

@@ -31,7 +31,7 @@ Two separate subpacks are also provided. They can be enabled individually or tog
 
 ### Supported Versions
 
-**Bow and Crossbow Visual Changes** works on **Minecraft Java Edition 1.14 and newer**.
+**Bow and Crossbow Visual Changes** compatible with **Minecraft Java Edition 1.14 and newer**.
 
 If you need support for older versions or want to toggle effects separately, use the two standalone subpacks mentioned in the Overview:
 

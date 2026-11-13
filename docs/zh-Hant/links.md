@@ -1,6 +1,6 @@
 | [简体中文](../zh-Hans/links.md) | [繁體中文](../zh-Hant/links.md) | [English](../en/links.md) |
 
-| [主頁](./home.md) | [內容索引](./index.md) | [相關鏈接](./links.md) | [聯繫方式](./contact.md) | [許可證](./resource-packs-license.md) |
+| [主頁](./home.md) | [內容索引](./index.md) | [安裝指導](./installation.md) | [相關鏈接](./links.md) | [聯繫方式](./contact.md) | [許可證](./resource-packs-license.md) |
 
 ---
 
@@ -36,4 +36,4 @@ Ko-fi：https://ko-fi.com/alybh
 
 ---
 
-| [主頁](./home.md) | [內容索引](./index.md) | [相關鏈接](./links.md) | [聯繫方式](./contact.md) | [許可證](./resource-packs-license.md) |
+| [主頁](./home.md) | [內容索引](./index.md) | [安裝指導](./installation.md) | [相關鏈接](./links.md) | [聯繫方式](./contact.md) | [許可證](./resource-packs-license.md) |

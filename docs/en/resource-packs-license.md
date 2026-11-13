@@ -1,5 +1,7 @@
 | [简体中文](../zh-Hans/resource-packs-license.md) | [繁體中文](../zh-Hant/resource-packs-license.md) | [English](../en/resource-packs-license.md) |
 
+| [Home](./home.md) | [Index](./index.md) | [Installation](./installation.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
+
 ---
 
 # License
@@ -163,4 +165,4 @@ Minecraft is a trademark of Mojang Studios. Nothing in this license **shall be c
 
 ---
 
-| [Home](./home.md) | [Index](./index.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
+| [Home](./home.md) | [Index](./index.md) | [Installation](./installation.md) | [Links](./links.md) | [Contact](./contact.md) | [License](./resource-packs-license.md) |
